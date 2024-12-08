@@ -8,4 +8,4 @@ Objetivo: A ideia é permitir que o usuário da ferramenta seja capaz de criar u
 As propriedades contêm especificações de cor para os elementos, de forma que como auxílio de softwares de visualização para que o usuário possa apreciar a escultura criada. O projeto consiste em dois módulos: 
 uma classe em C++ projetada para interpretação de um arquivo em formato de texto simples e geração das matrizes tridimensionais; e uma ferramenta visual para desenho,
 
-Desenho 3D desenhado:Maçã
+Desenho 3D desenhado: Maçã
