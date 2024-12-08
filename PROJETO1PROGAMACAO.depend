@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733530924 source:c:\users\ufrn\downloads\projeto1progamacao\main.cpp
+	"struct.h"
+
+1733530924 c:\users\ufrn\downloads\projeto1progamacao\include\struct.h
+
+1733530924 source:c:\users\ufrn\downloads\projeto1progamacao\src\struct.cpp
+	"struct.h"
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+
