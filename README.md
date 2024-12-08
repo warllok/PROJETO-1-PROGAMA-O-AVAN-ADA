@@ -1,4 +1,5 @@
-EsculturaDigital
+Escultura Digital
+
 Projeto da interface do escultor 3D referente a primiera parte do projeto da segunda unidade da disciplina de Programação Avançada (DCA3303) da Universidade Federal do Rio Grande do Norte (UFRN).
 
 COMPONENTE: Antonio Eduardo Do Nascimento oliveira 
